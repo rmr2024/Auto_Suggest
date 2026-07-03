@@ -1,0 +1,23 @@
+{
+  "name": "auto_suggest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rmr2024/Auto_Suggest.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rmr2024/Auto_Suggest/issues"
+  },
+  "homepage": "https://github.com/rmr2024/Auto_Suggest#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
