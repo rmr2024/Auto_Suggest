@@ -1,12 +1,36 @@
-h1 {
-    color: purple;
+h1{
+    color:rgb(87, 39, 8);
+}
+#home-intro{
+    text-align: center;
+    border: 5px dashed #844e0b;
+    padding: 20px;
+    border-radius:20px;
+    background-color:#FFFDF1;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.3);
+}
+#home-intro:hover{
+    background-color: #FFCE99;
+}
+#p2{
+    color:rgb(119, 54, 11);
+}
+#nav-bar{
+    background-color: #FFCE99;
+    padding: 10px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.3);
+    text-align: center;
+    margin-bottom: 5%;   
+
+}
+#nav-bar a{
+    color:rgb(87, 39, 8);
+    text-decoration: none;
+    margin: 0 10px;
+    font-weight: bold;
     text-align: center;
 }
-
-
-#home-intro {
-    text-align: center;
-    padding: 20px;
-    border: 1px solid black;
-    
+#nav-bar a:hover{
+    color:rgb(119, 54, 11);
 }
