@@ -68,8 +68,17 @@
     pointer-events: none;
 }
 #suggestion-box{
-    /* border: 1px solid black; */
+    border: 1px solid black;
     width: 40%;
+    text-align: center;
+    margin: auto;
+    padding: 10px;
+    margin-top: 10px;
+}
+
+#suggestion-item{
+    border: 1px solid black;
+    /* width: 40%; */
     text-align: center;
     margin: auto;
     padding: 10px;
