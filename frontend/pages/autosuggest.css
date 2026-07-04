@@ -1,0 +1,37 @@
+.body-container{
+    /* border: 3px solid crimson; */
+    /* padding: 20px; */
+    /* border-radius: 15px; */
+    /* margin: 20px; */
+    align-items: center;
+    text-align: center;
+}
+.algo{
+    text-align: center;
+}
+.nav-left{
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 65%;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.nav-right{
+    position: fixed;
+    top: 0;
+    right: 0;
+    width: 65%;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.artemis{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 60px;
+    font-weight: bold;
+    margin-top: 100px;
+}
