@@ -40,7 +40,8 @@ function getRandomUser()
       let imageUrl = parsedData.results[0].picture.large;
 
       // gender
-      document.getElementById("card-gender").innerText=gender;
+      document.getElementById('card-gender').innerText = gender.charAt(0).toUpperCase() + gender.slice(1).toLowerCase();
+
       // name
       document.getElementById("card-name").innerText=name
       // img
